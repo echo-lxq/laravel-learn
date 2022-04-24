@@ -153,6 +153,7 @@ Route::get('redirect7',function (){
 //使用命令行 生成 资源控制器 php artisan make:controller BlogController --resource
 //自动生成7个方法
 
+//123
 
 
 
